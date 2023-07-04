@@ -1,2 +1,2 @@
-# Finances-app
+# Finances App
 An app to easily track finances
